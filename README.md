@@ -1,5 +1,10 @@
+## Setup
+- Clone this repository
+- Run `npm install`
+- Run `npm start`
+
 ## Documentation
-To view the API documentation, run nodemon at the root directory and navigate to http://localhost:5000
+- You can view documentation for the API at http://localhost:5000
 
 ## Products
 - [x] GET - server side search using query parameters
